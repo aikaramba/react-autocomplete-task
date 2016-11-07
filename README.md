@@ -21,7 +21,7 @@ The recipient field should:
 Other requirements:
 
 - the form should send a JSON request with `email` and `body` attributes to `http://example.org` endpoint
-- user names along with their corresponding email addresses can be sourced from an Algolia index (application ID: `X4CZOFIPYI`, key: `c9d74d1b249831a64803caffb37a4e40`)
+- user names along with their corresponding email addresses can be sourced from an Algolia index (application ID: `X4CZOFIPYI`, key: `c9d74d1b249831a64803caffb37a4e40`, index: `ideals-people-energy`)
 - there are no restriction on the use of 3rd party libraries
 - you are *not* required to implement the backend for this component
 - the result should be published in a publicly available GitHub repository
